@@ -1,6 +1,6 @@
 # Virtual Remote Lab - Light Diffraction Simulator
 
-Simulate light diffraction patterns from anywhere with an Interactive Virtual Remote Lab Experience!
+Simulate light diffraction patterns from anywhere with an interactive Virtual Remote Lab experience!
 
 ## Overview
 The Virtual Remote Lab (VRL) is an interactive simulation tool for studying light diffraction patterns. Developed in 2019 with partner Kelson Reiss as a project for our SLU Madrid CS Software Engineering course, this virtual lab enables students to conduct diffraction experiments without the need for physical lab access.
